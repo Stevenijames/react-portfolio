@@ -1,6 +1,7 @@
 import React from "react";
 import "./AboutCard.css";
 
+
 function AboutCard(props) {
     return (
         <div className="animate__animated animate__fadeInUp">

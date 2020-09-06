@@ -1,14 +1,14 @@
 [
     {
-        "projectimage": "https://photos.app.goo.gl/egZ3WQ8CpPS5aTHB6",
+        "projectimage": "./assets/img/Rocket.png",
         "imagedescription": "rocketpic",
         "projecttitle": "Interplanetary Travel Planner",
         "projectdescription": "Interplanetary Travel Planner",
         "link1": "https://github.com/Stevenijames/interplanetary-travel-planner",
-        "link2": "https://react-directory-ausley.herokuapp.com/"
+        "link2": "https://interplanetarytravel.space/"
     },
     {
-        "projectimage": "https://photos.app.goo.gl/Z7C8YGsJNuPMt9NF6",
+        "projectimage": "./assets/img/budgettracker.png",
         "imagedescription": "budget",
         "projecttitle": "budget-tracker",
         "projectdescription": "Used to keep track of incoming and outgoing funds.",
@@ -16,7 +16,7 @@
         "link2": "https://young-eyrie-27509.herokuapp.com/"
     },
     {
-        "projectimage": "https://photos.app.goo.gl/1FWL6GqsDAkGWNJ86",
+        "projectimage": "./assets/img/fitnesstracker.png",
         "imagedescription": "Fitness Tracker",
         "projecttitle": "FitnessTracker",
         "projectdescription": "An app for tracking your fitness goals.",
@@ -24,7 +24,7 @@
         "link2": "https://fitnesstracker03.herokuapp.com"
     },
     {
-        "projectimage": "https://photos.app.goo.gl/YKwR9r7vc13aY4FS7",
+        "projectimage": "./assets/img/Employeedirectory.png",
         "imagedescription": "Employee Directory",
         "projecttitle": "Employee Directory",
         "projectdescription": "An app to be able to find employees that you work with",
@@ -32,7 +32,7 @@
         "link1": "https://employeedirectoryapp4579.herokuapp.com/"
     },
     {
-        "projectimage": "https://photos.app.goo.gl/AFgaeVgknViZDzJm6",
+        "projectimage": "./assets/img/dayplanner.png",
         "imagedescription": "Day Planner",
         "projecttitle": "Online Day Planner",
         "projectdescription": "A simple day planner to track your hourly activites.",
@@ -40,7 +40,7 @@
         "link2": "https://stevenijames.github.io/day-planner/"
     },
     {
-        "projectimage": "https://photos.app.goo.gl/hzmBw4BAkJd4kh8UA",
+        "projectimage": "./assets/img/horiseonss.png",
         "imagedescription": "horiseon",
         "projecttitle": "An assignment with basic html styling",
         "projectdescription": "My first coding assignment built with basic html",
