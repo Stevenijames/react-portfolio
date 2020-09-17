@@ -9,7 +9,7 @@ function Card() {
                 <div className="card-body">
                     <h5 className="card-title">Paul's Language Qualifications</h5>
                     <p className="card-text">
-                        HTML5, CSS, JavaScript, jQuery, Java, Bootstrap, Express.js, React.js, Node.js, MongoDB, Mongoose, MySQL, Command Line, Git, debugging, and tests.
+                        HTML5, CSS, JavaScript, jQuery, Bootstrap, Express.js, React.js, Node.js, MongoDB, Mongoose, MySQL, Command Line, Git, debugging, and tests.
           </p>
                 </div>
             </div>

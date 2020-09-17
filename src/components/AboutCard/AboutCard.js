@@ -7,11 +7,11 @@ function AboutCard(props) {
         <div className="animate__animated animate__fadeInUp">
             <div
                 className="card"
-                style={{ minHeight: "500px", marginBottom: "30px", marginTop: "30px", backgroundColor: "#F5F5DC", border: "5px solid #A9A9A9" }}
+                style={{ minHeight: "350px", marginBottom: "30px", marginTop: "40px", backgroundColor: "#F5F5DC", border: "5px solid #133b5c" }}
             >
                 <img
                     src={props.image}
-                    className="card-img-top" style={{ maxHeight: "250px" }}
+                    className="card-img-top" style={{ maxHeight: "350px" }}
                     alt={props.idescription}
                 />
                 <div className="card-body">
