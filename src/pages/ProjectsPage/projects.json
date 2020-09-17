@@ -8,6 +8,14 @@
         "link2": "https://interplanetarytravel.space/"
     },
     {
+        "projectimage": "./assets/img/worthyOriginScreenshot.png",
+        "imagedescription": "Landing Page",
+        "projecttitle": "Worthy Origin",
+        "projectdescription": "An app to track your foods carbon output",
+        "link1": "https://github.com/Jdusang1/Worthy-Origin",
+        "link2": "https://worthy-origin.herokuapp.com/"
+    },
+    {
         "projectimage": "./assets/img/budgettracker.png",
         "imagedescription": "budget",
         "projecttitle": "budget-tracker",
@@ -38,13 +46,5 @@
         "projectdescription": "A simple day planner to track your hourly activites.",
         "link1": "https://github.com/Stevenijames/day-planner/settings",
         "link2": "https://stevenijames.github.io/day-planner/"
-    },
-    {
-        "projectimage": "./assets/img/horiseonss.png",
-        "imagedescription": "horiseon",
-        "projecttitle": "An assignment with basic html styling",
-        "projectdescription": "My first coding assignment built with basic html",
-        "link1": "https://github.com/Stevenijames/Horiseon-assignment-2",
-        "link2": "https://stevenijames.github.io/Horiseon-assignment-2/index.html"
     }
 ]
