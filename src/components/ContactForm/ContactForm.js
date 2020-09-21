@@ -5,7 +5,7 @@ function ContactForm() {
 
     return (
         <div style={{ margin: "20px" }} className="animate__animated animate__fadeInUp">
-            <form action="ijamesproductions@gmail.com" method="get" enctype="text/plain" style={{ marginLeft: "20px", marginRight: "20px" }}>
+            <form action="ijamesproductions1@gmail.com" method="get" enctype="text/plain" style={{ marginLeft: "20px", marginRight: "20px" }}>
                 <div className="form-group">
                     <label for="exampleFormControlInput1" style={{ color: "white" }}>Email</label>
                     <input type="email" className="form-control" id="exampleFormControlInput1" placeholder="name@example.com" />
