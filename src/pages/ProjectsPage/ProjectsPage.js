@@ -1,5 +1,5 @@
 import React from "react";
-import "./ProjectsPage.css";
+// import "./ProjectsPage.css";
 import Navbar from "../../components/Navbar/Navbar"
 import ProjectCard from "../../components/ProjectCard/ProjectCard"
 import Col from "react-bootstrap/Col";
@@ -19,7 +19,7 @@ function ProjectsPage() {
         <div
             className="App"
             style={{
-                backgroundColor: isBackgroundDark ? '#BDB76B' : 'light',
+                backgroundColor: isBackgroundDark ? '#d4b668' : 'light',
             }}
         >
             <Navbar />

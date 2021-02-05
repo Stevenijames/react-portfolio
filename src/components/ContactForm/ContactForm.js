@@ -14,11 +14,10 @@ function ContactForm() {
                     <label for="exampleFormControlTextarea1" style={{ color: "white" }}>Personal Note or Inquiry?</label>
                     <textarea className="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
                     <br></br>
-                    <input className="btn btn-primary" type="submit" value="Submit"></input>
+                    <input className="btn" type="submit" value="Submit"></input>
                 </div>
             </form>
         </div>
-
     )
 };
 

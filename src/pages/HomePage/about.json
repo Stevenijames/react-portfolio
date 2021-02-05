@@ -1,17 +1,17 @@
 [
     {
-        "image": "assets/img/professionalshot1.jpg",
+        "image": "assets/img/paulsmusicstudio2.jpg",
         "idescription": "paulijames",
-        "cardtext": "A piano player for most of my life, now a certified full stack web developer. This venture in creativity is taking me to new heights."
+        "cardtext": "A piano player for most of my life, now a certified full stack web developer. This venture in creativity is taking me to new heights & teaching me to always expand my limits."
     },
     {
-        "image": "./assets/img/businessphoto1.jpg",
+        "image": "./assets/img/codinglanguagesresized.jpg",
         "idescription": "paulijamesbusiness",
-        "cardtext": "Paul codes apps for companies and also takes on freelance projects. Paul is always expanding his skillsets and knowlegde base."
+        "cardtext": "It is my dream to build apps for companies & am currently taking on freelance projects. If code has taught me one thing, it is to be relentless in the searh for the solution."
     },
     {
         "image": "./assets/img/beachphoto1.jpg",
         "idescription": "ijamesfamilybeachphoto",
-        "cardtext": "Relationships are so important! This is Paul's family. They are the reason he has decided to make a career change."
+        "cardtext": "Relationships are so important! This is my beautiful wife, and daughters; they are the reason I chose this new career path of adventurous web development."
     }
 ]

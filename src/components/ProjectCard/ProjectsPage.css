@@ -1,0 +1,15 @@
+/* .background-dark {
+    background-color: rgb(21, 22, 6);
+} */
+
+.card-img-top{
+    display:flex;
+    flex-wrap: wrap;
+    @media screen (max-width: 600px) {
+        .card-img-top{
+            flex: 100%;
+            max-width: 100%;
+        }
+    }
+}
+

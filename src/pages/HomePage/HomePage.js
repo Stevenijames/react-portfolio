@@ -17,7 +17,7 @@ function HomePage() {
     return (
         <div className="App"
             style={{
-                backgroundColor: isBackgroundDark ? "#BDB76B" : "light",
+                backgroundColor: isBackgroundDark ? "#d4b668" : "light",
             }}
         >
             <Navbar />

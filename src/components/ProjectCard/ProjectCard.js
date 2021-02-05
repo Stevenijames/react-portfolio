@@ -1,10 +1,11 @@
 import React from "react";
+import "./ProjectsPage.css";
 
 function ProjectCard(props) {
 
     return (
         <div className="animate__animated animate__fadeInUp">
-            <div className="card" style={{ height: "500px", marginTop: "10px", marginBottom: "10px", border: "5px solid #A9A9A9", backgroundColor: "#F5F5DC" }}>
+            <div className="card" style={{ height: "450px", marginTop: "10px", marginBottom: "10px", border: "5px solid #133b5c", backgroundColor: "#F5F5DC" }}>
                 <img
                     className="card-img-top"
                     src={props.projectimage}
@@ -16,11 +17,9 @@ function ProjectCard(props) {
                 </div>
                 <div className="card-body">
                     <a href={props.link1} className="card-link">
-                        Project
-          </a>
+                        Project</a>
                     <a href={props.link2} className="card-link">
-                        Deployed App
-          </a>
+                        App</a>
                 </div>
             </div>
         </div>

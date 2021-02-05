@@ -5,8 +5,8 @@ import "./Navbar.css";
 function Navbar() {
     return (
         <div>
-            <nav className="navbar navbar-expand-lg navbar-light bg-light">
-                <Link to="/" className="navbar-brand">
+            <nav className="navbar navbar-expand-lg">
+                <Link to="/" className="nav-item nav-link">
                     About
         </Link>
                 <button
