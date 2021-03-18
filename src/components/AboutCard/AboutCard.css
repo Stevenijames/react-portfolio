@@ -1,3 +1,19 @@
-.card {
-    border-radius: 8px;
+.row {
+  display: flex;
+  flex-direction: row wrap;
 }
+
+.card-img-top {
+  border-top-left-radius: 0px;
+  border-top-right-radius: 0px;
+}
+
+.card-body {
+  min-height: 120px;
+}
+
+/* @media screen and (max-width: 630px) {
+  .col {
+    display: inline-block;
+  }
+} */

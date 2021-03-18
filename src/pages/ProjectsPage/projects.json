@@ -8,7 +8,7 @@
         "link2": "https://interplanetarytravel.space/"
     },
     {
-        "projectimage": "./assets/img/worthyOriginScreenshot.png",
+        "projectimage": "./assets/img/worthyOrigin.png",
         "imagedescription": "Landing Page",
         "projecttitle": "Worthy Origin",
         "projectdescription": "An app to track your foods carbon output",
@@ -18,7 +18,7 @@
     {
         "projectimage": "./assets/img/budgettracker.png",
         "imagedescription": "budget",
-        "projecttitle": "budget-tracker",
+        "projecttitle": "Budget-tracker",
         "projectdescription": "Used to keep track of incoming and outgoing funds.",
         "link1": "https://github.com/Stevenijames/budget-tracker",
         "link2": "https://young-eyrie-27509.herokuapp.com/"
@@ -32,7 +32,7 @@
         "link2": "https://fitnesstracker03.herokuapp.com"
     },
     {
-        "projectimage": "./assets/img/Employeedirectory.png",
+        "projectimage": "./assets/img/employeeDirectory.png",
         "imagedescription": "Employee Directory",
         "projecttitle": "Employee Directory",
         "projectdescription": "An app to be able to find employees that you work with",
