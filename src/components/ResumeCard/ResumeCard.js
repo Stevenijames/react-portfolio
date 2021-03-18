@@ -15,7 +15,8 @@ function ResumeCard() {
         <h5 className="card-header">Paul Ijames Projects</h5>
         <div className="card-body">
           <a
-            href="https://docs.google.com/document/d/1pj8y8e57bk3yYmtH0F3vKXLqs6ecKZ5Apjtn410_4oU/edit?usp=sharing"
+            alt="Resume"
+            href="https://docs.google.com/document/d/1OG3sf-lF9MzWa_fA7TDKaYsj6smunuSGgIy5MGhGi2k/edit?usp=sharing"
             style={{ backgroundColor: "#36454f" }}
             className="btn"
           >
