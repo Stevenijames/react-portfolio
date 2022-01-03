@@ -7,7 +7,7 @@ function Welcome() {
       <div
         className="jumbotron"
         style={{
-          backgroundColor: "#FFF8DC",
+          backgroundColor: "#d4b66b",
         }}
       >
         <h1 className="display-4">Paul Ijames Web Development</h1>
@@ -18,20 +18,20 @@ function Welcome() {
         <a
           className="btn btn-md"
           style={{
-            backgroundColor: "#36454f",
-          }}
-          href="https://github.com/Stevenijames"
-        >
-          GitHub
-        </a>
-        <a
-          className="btn btn-md btn-divider"
-          style={{
-            backgroundColor: "#36454f",
+            backgroundColor: "#153B5C",
           }}
           href="https://www.linkedin.com/in/paul-ijames-94765054"
         >
           LinkedIn
+        </a>
+        <a
+          className="btn btn-md"
+          style={{
+            backgroundColor: "#153B5C",
+          }}
+          href="https://github.com/Stevenijames"
+        >
+          GitHub
         </a>
       </div>
     </div>

@@ -1,17 +1,24 @@
-#CP {
-  width: 100%;
-  height: 40%;
-}
-
-.card-link {
-  align-content: center;
-}
-
 .card-img-top {
+  width: 100%;
+  height: auto;
+}
+
+.card-style {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: space-evenly;
+}
+
+/* .card-link {
+  text-align: center;
+} */
+
+/* .card-img-top {
   border-top-left-radius: 0px;
   border-bottom-right-radius: 0px;
-}
+} */
 
-.card-title {
+/* .card-title {
   align-content: center;
-}
+} */

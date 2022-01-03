@@ -3,27 +3,13 @@ body {
   font-family: "Montserrat", sans-serif;
 }
 
-html {
+/* html {
   font-size: 100%;
-}
-@media (max-width: 75em) {
-  html {
-    font-size: 56.25%;
-  }
-}
-@media (max-width: 56.25em) {
-  html {
-    font-size: 50%;
-  }
-}
+} */
 
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
 }

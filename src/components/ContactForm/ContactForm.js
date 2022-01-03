@@ -1,5 +1,6 @@
 import React from "react";
 import "./ContactForm.css";
+import "./Form";
 
 function ContactForm() {
   return (
@@ -7,7 +8,7 @@ function ContactForm() {
       <form
         action="ijamesproductions1@gmail.com"
         method="get"
-        enctype="text/plain"
+        type="text/plain"
         style={{ marginLeft: "20px", marginRight: "20px" }}
       >
         <div className="form-group">
@@ -23,11 +24,12 @@ function ContactForm() {
         </div>
         <div className="form-group">
           <label for="exampleFormControlTextarea1" style={{ color: "white" }}>
-            Personal Note or Inquiry?
+            Personal Note Here
           </label>
           <textarea
             className="form-control"
             id="exampleFormControlTextarea1"
+            placeholder="Personal Note"
             rows="3"
           ></textarea>
           <br></br>

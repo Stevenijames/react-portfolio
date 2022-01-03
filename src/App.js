@@ -6,13 +6,15 @@ import Navbar from "./components/Navbar/Navbar";
 import Footer from "./components/Footer/Footer";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import "./App.css";
+import FormComponent from "./components/ContactForm/Form";
 
 function App() {
   return (
     <Router>
       <Navbar />
       <Switch>
-        <Route exact path="/" component={HomePage} />
+        <Route exact path="/homepage" component={HomePage} />
+        <Route exact path="/formcomponents" component={FormComponent} />
         <Route exact path="/contact-page" component={ContactPage} />
         <Route exact path="/projects-page" component={ProjectsPage} />
       </Switch>

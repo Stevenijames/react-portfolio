@@ -3,9 +3,19 @@
 } */
 .navbar {
   background-color: #153b5c;
+  display: flex;
+  justify-content: center;
 }
 
 .nav-item {
   color: white;
-  font-weight: normal;
+  font-weight: bold;
+}
+
+@media (max-width: 767px) {
+  .navbar {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+  }
 }

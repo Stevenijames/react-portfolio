@@ -9,7 +9,7 @@ function ResumeCard() {
         style={{
           marginTop: "10px",
           marginBottom: "10px",
-          backgroundColor: "#FFF8DC",
+          backgroundColor: "#white",
         }}
       >
         <h5 className="card-header">Paul Ijames Projects</h5>
@@ -17,7 +17,7 @@ function ResumeCard() {
           <a
             alt="Resume"
             href="https://docs.google.com/document/d/1OG3sf-lF9MzWa_fA7TDKaYsj6smunuSGgIy5MGhGi2k/edit?usp=sharing"
-            style={{ backgroundColor: "#36454f" }}
+            style={{ backgroundColor: "#153B5C" }}
             className="btn"
           >
             Resume

@@ -7,15 +7,13 @@ function ProjectCard(props) {
       <div
         className="card-style"
         style={{
-          height: "350px",
           marginTop: "10px",
           marginBottom: "10px",
           border: "5px solid #153B5C",
-          backgroundColor: "#F5F5DC",
+          backgroundColor: "white",
         }}
       >
         <img
-          id="CP"
           className="card-img-top"
           src={props.projectimage}
           alt={props.imagedescription}

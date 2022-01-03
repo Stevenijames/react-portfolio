@@ -4,9 +4,9 @@ import "./Navbar.css";
 
 function Navbar() {
   return (
-    <div>
+    <div className="navbar">
       <nav className="navbar navbar-expand-lg">
-        <Link to="/" className="nav-item nav-link">
+        <Link to="/homepage" className="nav-item nav-link">
           About
         </Link>
         <Link to="/projects-page" className="nav-item nav-link">

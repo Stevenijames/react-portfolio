@@ -10,7 +10,7 @@ function AboutCard(props) {
           minHeight: "350px",
           marginTop: "10px",
           marginBottom: "40px",
-          backgroundColor: "#F5F5DC",
+          backgroundColor: "#d4b66b",
           borderRadius: "inherent",
           border: "5px solid #153B5C",
         }}
@@ -18,7 +18,6 @@ function AboutCard(props) {
         <img
           src={props.image}
           className="card-img-top"
-          style={{ maxHeight: "350px", maxWidth: "350px" }}
           alt={props.idescription}
         />
         <div className="card-body">

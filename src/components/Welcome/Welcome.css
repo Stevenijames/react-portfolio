@@ -1,15 +1,14 @@
-.btn-layout {
-  display: flex;
-  justify-content: center;
-  align-items: baseline;
-}
-
-.btn-divider {
+/* .btn-divider {
   margin-left: 10px;
+} */
+
+.jumbotron {
+  display: flex;
+  flex-direction: column;
 }
 
 .btn {
   display: inline-block;
-  justify-content: center;
-  align-self: center;
+  font-size: large;
+  margin: 5px;
 }

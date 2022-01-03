@@ -10,7 +10,7 @@ import about from "./about.json";
 import "../../App.css";
 
 function HomePage() {
-  const isBackgroundDark = true;
+  const isBackgroundDark = false;
 
   return (
     <div

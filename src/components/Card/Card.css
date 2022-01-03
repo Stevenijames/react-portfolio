@@ -1,4 +1,13 @@
 #CS {
   padding-top: 10px;
   padding-bottom: 10px;
+  border-color: #153b5c;
+  border-style: solid 15px;
+}
+
+@media (max-width: 767px) {
+  .card {
+    display: flex;
+    flex-flow: column nowrap;
+  }
 }
