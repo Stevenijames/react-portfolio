@@ -49,7 +49,6 @@ function HomePage() {
         </Row>
       </Container>
       <Card />
-
       <Footer />
     </div>
   );
